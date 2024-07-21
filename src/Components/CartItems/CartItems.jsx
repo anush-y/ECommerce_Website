@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import './CartItems.css'
-import { useActionData } from "react-router-dom";
 import { ShopContext } from "../../Context/ShopContext";
 import remove_icon from '../Assets/cart_cross_icon.png'
 
