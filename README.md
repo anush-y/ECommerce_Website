@@ -1,3 +1,5 @@
+This is a codealong learning website I have built using video (https://www.youtube.com/watch?v=y99YgaQjgx4&t=17948s) reference for learning purposes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
